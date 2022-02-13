@@ -1,0 +1,10 @@
+C:\Users\Михаил\RiderProjects\Car\Car\bin\Debug\net472\Car.exe.config
+C:\Users\Михаил\RiderProjects\Car\Car\bin\Debug\net472\Car.exe
+C:\Users\Михаил\RiderProjects\Car\Car\bin\Debug\net472\Car.pdb
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.csproj.AssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.exe
+C:\Users\Михаил\RiderProjects\Car\Car\obj\Debug\net472\Car.pdb
