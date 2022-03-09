@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\RiderProjects\\Car\\Car\\Car.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\Car\\Car\\Car\\Car.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\RiderProjects\\Car\\Car\\Car.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\Car\\Car\\Car\\Car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\RiderProjects\\Car\\Car\\Car.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Car\\Car\\Car\\Car.csproj",
         "projectName": "Car",
-        "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Car\\Car\\Car.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\Car\\Car\\Car\\Car.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\RiderProjects\\Car\\Car\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\Car\\Car\\Car\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,7 +39,7 @@
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
