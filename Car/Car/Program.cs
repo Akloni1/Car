@@ -15,6 +15,7 @@ namespace Car
             Console.WriteLine(car.PowerReserve() + " км.");
             Console.WriteLine(car.PowerReserveLoadedCar() + " км.");
             Console.WriteLine("емае");
+            Console.WriteLine("емае");
         }
     }
 }
