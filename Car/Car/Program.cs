@@ -14,9 +14,8 @@ namespace Car
             Console.WriteLine(car.TravelTime(180) + " ч.");
             Console.WriteLine(car.PowerReserve() + " км.");
             Console.WriteLine(car.PowerReserveLoadedCar() + " км.");
-
-            Console.WriteLine("лала");
-
+            Console.WriteLine("емае");
+            Console.WriteLine("емае");
         }
     }
 }
